@@ -1,0 +1,6 @@
+.main__cont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  
+}

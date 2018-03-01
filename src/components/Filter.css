@@ -1,0 +1,18 @@
+.filter__cont {
+margin-top: 50px;
+border: 1px solid rgb(238,238,238);
+padding: 30px;
+}
+
+.filter__text {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-around;
+}
+
+
+.filter__price {
+  display: flex;
+  flex-direction: row;
+}

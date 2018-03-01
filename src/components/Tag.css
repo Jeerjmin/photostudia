@@ -1,0 +1,10 @@
+.tag__grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.tag__cont {
+  background: rgb(37,146,252);
+  margin: 5px;
+}
